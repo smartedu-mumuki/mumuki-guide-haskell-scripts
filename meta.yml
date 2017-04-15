@@ -1,9 +1,11 @@
 ---
 name: Scripts
-locale: en
+locale: es
 type: learning
 beta: false
-teacher_info: 
-language: haskell
+teacher_info: ''
+language: html
 id_format: "%05d"
-order: []
+order:
+- 1
+- 2
